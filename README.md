@@ -1,4 +1,4 @@
-### Oie eu sou a Jes 👋
+### <div align="center">Oie eu sou a Jes 👋<div>
 
 <div align="center"> <!-- Ligagens, e tipo de commits -->
   <a href="https://https://github.com/JesicaSousa">
