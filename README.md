@@ -13,6 +13,7 @@
   <img align="center" alt="Jesica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jesica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Jesica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Jesica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angula/angula-original.svg">
   <img align="right" alt="Jesica-pic" height="120" style="border-radius:50px;" src="https://i.picasion.com/pic92/462f9b1d6f0de5eb07e96a0b7bccb1e6.gif"> </div>
    
   <p>
